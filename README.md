@@ -1,7 +1,7 @@
 <h1 align="center">PRIVACY POLICY</h1>
 
 <h3 align="center">
-  This Privacy Policies explains how we collect, use, disclose, and protect your personal information when you use the The Blame. By using the The Blame, you agree to the collection and use of your personal information as described in this Privacy Policy.
+  This Privacy Policies explains how we collect, use, disclose, and protect your personal information when you use the The Blame. By using the The Eternity, you agree to the collection and use of your personal information as described in this Privacy Policy.
 </h3>
 
 ------
